@@ -9,6 +9,9 @@ class Solution {
             if(heights[left]<heights[right]){
                 left++;
             }
+
+
+
             else{
                 right--;
             }
